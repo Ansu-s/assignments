@@ -8,3 +8,4 @@ Tasks and assignments regardign development.
 
 ## Debugging
 - https://ntietz.com/blog/how-i-debug-2023/
+- https://www.jetbrains.com/help/idea/debugging-your-first-java-application.html
