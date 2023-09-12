@@ -1,9 +1,10 @@
 # assignments
 Tasks and assignments regarding development.
 
-## Serialization
+## Serialization & Externalization
 - https://www.javacodegeeks.com/2013/03/serialization-in-java.html
-  
+- https://www.scientecheasy.com/2021/08/externalization-in-java.html/
+
 ## Annotations
 - https://jenkov.com/tutorials/java/annotations.html
 - https://howtodoinjava.com/java/complete-java-annotations-tutorial/
