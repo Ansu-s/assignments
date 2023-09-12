@@ -1,6 +1,10 @@
 # assignments
 Tasks and assignments regarding development.
 
+## Multithreading
+- https://www.callicoder.com/java-concurrency-multithreading-basics/
+- https://www.callicoder.com/java-8-completablefuture-tutorial/
+
 ## Serialization & Externalization
 - https://www.javacodegeeks.com/2013/03/serialization-in-java.html
 - https://www.scientecheasy.com/2021/08/externalization-in-java.html/
