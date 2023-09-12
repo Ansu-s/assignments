@@ -1,5 +1,5 @@
 # assignments
-Tasks and assignments regardign development.
+Tasks and assignments regarding development.
 
 ## Annotations
 - https://jenkov.com/tutorials/java/annotations.html
