@@ -1,5 +1,8 @@
 # Assignments
 Tasks and assignments regarding development.
+## Object Modelling
+- https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition
+  
 ## Classpath
 - https://medium.com/javarevisited/back-to-the-basics-of-java-part-1-classpath-47cf3f834ff
   
